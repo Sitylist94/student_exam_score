@@ -1,6 +1,5 @@
 from sklearn.linear_model import LinearRegression, Lasso, Ridge
 from sklearn.ensemble import VotingRegressor
-from sklearn.ensemble import BaggingRegressor, RandomForestRegressor
 from sklearn.model_selection import train_test_split
 import pandas as pd
 import mlflow
